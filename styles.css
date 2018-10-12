@@ -1,3 +1,6 @@
+body {
+	background-image: url("tribute_background.jpeg");
+}
 .jumbotron {
 	padding-top: 5px;
 	padding-bottom: 15px;
@@ -14,7 +17,7 @@ h3 {
 h4 {
 	font-family: "Georgia";
 }
-p {
+li {
 	font-family: "Georgia";
 	text-align: "left";
 }

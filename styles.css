@@ -5,9 +5,7 @@ body {
 	padding-top: 5px;
 	padding-bottom: 15px;
 	text-align: center;
-	opacity: 0.5;
-	text-shadow: 0.25px 0.25px 0.25px #000000;
-	: 1.0;
+	opacity: 0.75;
 }
 h1 {
 	font-family: "Georgia";
